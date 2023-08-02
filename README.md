@@ -1,1 +1,2 @@
-# inflearn_algo
+# inflearn_파이썬 알고리즘 문제풀이 입문 강의 노트
+
