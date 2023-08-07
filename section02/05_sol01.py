@@ -1,3 +1,8 @@
+'''
+정다면체
+
+100/100
+'''
 N, M = map(int, input().split())
 
 if N > M:
