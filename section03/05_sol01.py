@@ -1,6 +1,8 @@
 '''
 05 수들의 합
 
+40 / 100
+Time Limit Exceeded
 '''
 
 # import sys
