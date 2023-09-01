@@ -1,6 +1,8 @@
 '''
 01 K 번째 약수
 100/100
+
+for else 구문으로도 풀어보기
 '''
 
 N, K = map(int, input().split())
