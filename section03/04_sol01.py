@@ -1,14 +1,11 @@
 '''
 04 두 리스트 합치기
 
-0 / 100
-
-Wrong Answer
-
+100 / 100
 '''
 
-import sys
-sys.stdin = open('04_input.txt')
+# import sys
+# sys.stdin = open('04_input.txt')
 
 N = int(input())
 arr1 = list(map(int, input().split()))
