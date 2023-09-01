@@ -3,9 +3,8 @@
 
 '''
 
-import sys
-import pprint
-sys.stdin = open('06_input.txt')
+# import sys
+# sys.stdin = open('06_input.txt')
 
 
 def max_inline(arr, N):

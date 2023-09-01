@@ -2,8 +2,8 @@
 카드 역배치
 '''
 
-import sys
-sys.stdin = open('03_input.txt')
+# import sys
+# sys.stdin = open('03_input.txt')
 
 cards = [i for i in range(21)]
 

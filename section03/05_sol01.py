@@ -3,8 +3,8 @@
 
 '''
 
-import sys
-sys.stdin = open('05_input.txt')
+# import sys
+# sys.stdin = open('05_input.txt')
 
 N, M = map(int, input().split())
 arr = list(map(int, input().split()))

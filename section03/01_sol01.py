@@ -2,9 +2,8 @@
 01 회문 문자열 검사
 '''
 
-import sys
-
-sys.stdin = open('01_input.txt')
+# import sys
+# sys.stdin = open('01_input.txt')
 N = int(input())
 
 for tc in range(N):
