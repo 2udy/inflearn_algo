@@ -10,6 +10,7 @@ sys.stdin = open('04_input.txt')
 def partial(i):
     if i == N:
         cnt = 0
+        print(visited)
         for j in range(N):
             if visited[j] == 1:
                 cnt += arr[j]
